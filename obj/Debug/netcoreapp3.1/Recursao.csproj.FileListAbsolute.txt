@@ -1,0 +1,13 @@
+D:\DEV\Recursao\bin\Debug\netcoreapp3.1\Recursao.exe
+D:\DEV\Recursao\bin\Debug\netcoreapp3.1\Recursao.deps.json
+D:\DEV\Recursao\bin\Debug\netcoreapp3.1\Recursao.runtimeconfig.json
+D:\DEV\Recursao\bin\Debug\netcoreapp3.1\Recursao.runtimeconfig.dev.json
+D:\DEV\Recursao\bin\Debug\netcoreapp3.1\Recursao.dll
+D:\DEV\Recursao\bin\Debug\netcoreapp3.1\Recursao.pdb
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.csprojAssemblyReference.cache
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.AssemblyInfoInputs.cache
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.AssemblyInfo.cs
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.csproj.CoreCompileInputs.cache
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.dll
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.pdb
+D:\DEV\Recursao\obj\Debug\netcoreapp3.1\Recursao.genruntimeconfig.cache
